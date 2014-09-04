@@ -1,6 +1,6 @@
 browsepy apps
 =============
 
-Applications for opening specific file types for [browsepy][]
+Applications for [browsepy][] for opening specific file types 
 
   [browsepy]: https://github.com/Vik2015/browsepy
