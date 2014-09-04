@@ -1,4 +1,5 @@
 import ui
+import os
 
 class App(object):
     def __init__(self, bview, fn):
@@ -6,7 +7,7 @@ class App(object):
         self.fn    = fn
         
         self.view = ui.View()
-        self.view.name = fn
+        self.view.name = os.path.split(fn)[-1]
         
         self.text = ui.TextView()
         self.text.flex = "WH"
