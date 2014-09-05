@@ -1,3 +1,8 @@
+###ACHTUNG!
+###Apps are now located here: https://github.com/Vik2015/browsepy/apps/
+
+--------------
+
 browsepy apps
 =============
 
